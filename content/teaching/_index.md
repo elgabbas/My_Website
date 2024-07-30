@@ -1,23 +1,21 @@
 ---
-title: Teaching
-summary: My courses
-type: landing
-
 cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
+- _target:
+    kind: page
+  params:
+    show_breadcrumb: true
 sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+- block: collection
+  content:
+    filters:
+      folders:
+      - teaching
+    title: Teaching
+  design:
+    columns: 2
+    view: article-grid
+  id: teaching
+summary: My courses
+title: Teaching
+type: landing
 ---

@@ -1,186 +1,140 @@
 ---
-# Display name
-title: 吳健雄
+education:
+- area: "Bachelor of Science (Zoology)"
+  date_end: "2001-09-01"
+  date_start: "2005-06-01"
+  institution: Suez Canal University, Faculty of Science, Ismailia, Egypt
+  summary: |
+    
+- area: "Postgraduate Diploma in Physiology and Biochemistry"
+  date_end: "2006-06-01"
+  date_start: "2005-09-01"
+  institution: Suez Canal University, Faculty of Science, Ismailia, Egypt
+  summary: |
+    
+- area: "MRes (Master by Research) in Conservation Biology (with distinction)"
+  date_end: "2013-03-01"
+  date_start: "2011-10-01"
+  institution: University of Nottingham, School of Life Sciences, Behaviour and Ecology group
+  summary: |
+    **Supervisor:** <a href="https://www.nottingham.ac.uk/~plzfg/" target="_blank">Prof. Francis Gilbert</a><br>**Thesis title:** Distribution of the Egyptian reptiles under current and future climates</a>.<br>**Scholarship:** <a href="https://www.chevening.org/" target="_blank">Chevening scholarships</a> (2011 / 2012).
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+- area: "Dr. rer. nat."
+  date_end: "2018-07-01"
+  date_start: "2014-04-01"
+  institution: Department of biometry and environmental system analysis, Albert-Ludwigs-Universität Freiburg
+  summary: |
+    **First supervisor:** <a href="https://www.biom.uni-freiburg.de/mitarbeiter/dormann" target="_blank">Prof. Carsten Dormann</a> (Univeristy of Freiburg)<br>**Second supervisor:** <a href="https://www.nottingham.ac.uk/~plzfg/" target="_blank">Prof. Francis Gilbert</a> (Univeristy of Nottingham, UK)<br>**Thesis title:** <a href="https://freidok.uni-freiburg.de/data/16381" target="_blank">Reliability of species distribution modelling for wildlife conservation in developing countries</a>.<br>**Scholarship:** GERLS scholarship (German-Egyptian Research Long-term Scholarship): a program jointly funded by the Egyptian Ministry of Higher Education (MoHE) and the Deutscher Akademischer Austauschdienst (<a href="https://www.daad.de/en/" target="_blank">DAAD</a>).
 
-# Full name (for SEO)
 first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Role/position/tagline
-role: Chief Scientist
-
-# Organizations/Affiliations to display in Biography blox
+interests:
+- Spatial Ecology
+- Macroecology
+- Biodiversity
+- Conservation
+- Ecological Modeling
+- <a href="https://twitter.com/hashtag/rstats" target="_blank">#Rstats</a>
+languages:
+- name: English
+  percent: 100
+- name: Arabic
+  percent: 100
+- name: German
+  percent: 60
+last_name:
+name_pronunciation: Ahmed El-Gabbas
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+  - name: "Helmholtz Centre for Environmental Research (UFZ), Germany"
+    url: "https://www.ufz.de/"
 profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/ahmed_elgabbas
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/elgabbas
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ahmed-elgabbas/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=hJ0tB04AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: "https://orcid.org/0000-0003-2225-088X"
+  - icon: academicons/publons
+    url: "https://publons.com/researcher/1236361/ahmed-el-gabbas/"
+  - icon: academicons/researchgate
+    url: "https://www.researchgate.net/profile/Ahmed_El-Gabbas"
+  - icon: academicons/scopus
+    url: "https://www.scopus.com/authid/detail.uri?authorId=26633784300"
+  - icon: academicons/researcherid
+    url: "http://www.researcherid.com/rid/E-7796-2014"
+role: "Quantitative ecologist<br>(postdoctoral researcher)"
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+status:
+  icon:
+superuser: true
+title: 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+- company_logo: ""
+  company_name: "BioMAP Project (Biodiversity Monitoring and Assessment Project)"
+  company_url: ""
+  company_location: "Cairo, Egypt"
+  position: Ecologist
+  date_start: "2005-10-01"
+  date_end: "2008-08-01"
+  summary: |-
+    
+- company_logo: ""
+  company_name: "Nature & Science Foundation (NSF)"
+  company_url: ""
+  company_location: "Cairo, Egypt"
+  position: Ecologist
+  date_start: "2008-08-01"
+  date_end: "2009-11-01"
+  summary: |-
+    
+- company_logo: ""
+  company_name: "Nature Conservation Sector, Egypt (National Biodiversity Unit)"
+  company_url: "http://www.eeaa.gov.eg/en-us/topics/nature.aspx"
+  company_location: "Cairo, Egypt"
+  position: Ecologist
+  date_start: "2009-11-01"
+  date_end: "2011-01-01"
+  summary: |-
+    
+- company_logo: ""
+  company_name: "Nature Conservation Sector, Egypt (Gebel Elba National Park)"
+  company_url: "http://www.eeaa.gov.eg/en-us/topics/nature.aspx"
+  company_location: "Red Sea, Egypt"
+  position: Ecologist
+  date_start: "2011-01-01"
+  date_end: ""
+  summary: |-
+    
+- company_logo: ""
+  company_name: "Helmholtz-Centre for Environmental Research (Helmholtz-Zentrum für Umweltforschung; UFZ), Germany"
+  company_url: "https://www.ufz.de/index.php?en=50471"
+  company_location: "Halle (Saale), Germany"
+  position: Wissenschaftlicher Mitarbeiter (postdoctoral researcher)
+  date_start: "2023-02-01"
+  date_end: ""
+  summary: |-
+    
+- company_logo: ""
+  company_name: "Alfred Wegener Institute (AWI), Helmholtz Centre for Polar and Marine Research, Germany"
+  company_url: "https://www.awi.de/en/science/climate-sciences/physical-oceanography/main-research-focus/ocean-acoustics-group.html"
+  company_location: "Bremerhaven, Germany"
+  position: "Wissenschaftlicher Mitarbeiter (postdoctoral researcher)"
+  date_start: "2018-07-01"
+  date_end: "2022-05-31"
+  summary: |-
+    
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<p style="text-align:justify">
+I am a conservation ecologist interested in spatial-, quantitative-, and macro-ecology, biogeography, and biodiversity conservation. I am particularly interested in data and methodological challenges in this realm.<br>
+My research focuses on studying the spatial distribution of biodiversity, prioritization of conservation efforts, and understanding factors determining species distributions in time and space, mainly using the overarching methods of species distribution modelling.<br>
+Currently, I am a postdoctoral researcher at the Department of <a href="https://www.ufz.de/index.php?en=36737" target="_blank">Community Ecology</a>, Helmholtz Centre for Environmental Research (<a href="https://www.ufz.de/" target="_blank">UFZ</a>). I am modelling the distribution of invasive alien plant species across Europe and preparing necessary data to achieve that, a part of the biodiversity Digital Twin project (<a href="https://biodt.eu/" target="_blank">BioDT</a>). </p>
