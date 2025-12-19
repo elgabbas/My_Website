@@ -42,6 +42,8 @@ url_pdf: 'Publications/El-Gabbas_etal_2020_BMC_Ecol.pdf'
 links:
 - name: Supporting information
   url: 'http://elgabbas.netlify.app/Publications/El-Gabbas_etal_2020_BMC_Ecol_SI.pdf'
+- name: "GitHub Repository"
+  url: 'https://github.com/elgabbas/Conservation-Prioritisation-Sensitivity'
 url_poster: ''
 url_project: ""
 url_slides: ""

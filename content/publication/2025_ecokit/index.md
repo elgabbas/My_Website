@@ -33,6 +33,8 @@ url_pdf: ''
 links:
 - name: "Package Documentation"
   url: 'https://elgabbas.github.io/ecokit'
+- name: "GitHub Repository"
+  url: 'https://github.com/elgabbas/ecokit'
 url_poster: ''
 url_project: ""
 url_slides: ""

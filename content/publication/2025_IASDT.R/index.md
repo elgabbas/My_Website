@@ -34,6 +34,8 @@ url_pdf: ''
 links:
 - name: "Package Documentation"
   url: 'https://biodt.github.io/IASDT.R'
+- name: "GitHub Repository"
+  url: 'https://github.com/biodt/IASDT.R'
 url_poster: ''
 url_project: ""
 url_slides: ""
