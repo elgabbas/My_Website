@@ -35,7 +35,6 @@ publication_types:
 - "2"
 publishDate: "2020-06-21T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: 'Publications/El-Gabbas_etal_2020_BMC_Ecol.pdf'

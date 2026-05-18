@@ -26,7 +26,6 @@ publication_types:
 - "2"
 publishDate: "2009-01-01T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: "Publications/Brading_etal_2009_EgyJBiology.pdf"

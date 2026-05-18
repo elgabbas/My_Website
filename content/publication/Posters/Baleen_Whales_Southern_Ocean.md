@@ -32,7 +32,6 @@ publication_types:
 - "1"
 publishDate: "2019-12-08T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_poster: ''

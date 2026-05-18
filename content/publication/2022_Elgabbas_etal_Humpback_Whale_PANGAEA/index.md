@@ -27,7 +27,6 @@ publication_short:
 publication_types: ["6"]
 publishDate: "2022-08-26T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_pdf: ""
 url_dataset: ''

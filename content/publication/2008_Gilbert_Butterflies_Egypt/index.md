@@ -46,7 +46,6 @@ publication_short:
 publication_types: ["5"]
 publishDate: "2008-01-01T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_pdf: "http://www.nottingham.ac.uk/~plzfg/pdf%20files/2008%20Butterflies.pdf"
 url_dataset: ''

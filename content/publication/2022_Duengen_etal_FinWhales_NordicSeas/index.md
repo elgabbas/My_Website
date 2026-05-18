@@ -28,7 +28,6 @@ publication_types:
 - "2"
 publishDate: "2022-05-06T13:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: 'Publications/Duengen_etal_2022_MMS.pdf'

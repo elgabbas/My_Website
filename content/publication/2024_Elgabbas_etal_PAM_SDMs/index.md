@@ -29,7 +29,6 @@ publication_types:
 - journal article
 publishDate: "2023-12-28T13:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: 'Publications/El-Gabbas_etal_2024_DDI.pdf'

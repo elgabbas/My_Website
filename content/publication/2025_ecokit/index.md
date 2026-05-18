@@ -26,7 +26,6 @@ publication_types:
 - journal article
 publishDate: "2025-12-18T13:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: ''

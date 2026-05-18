@@ -44,7 +44,6 @@ publication_types:
 - "2"
 publishDate: "2021-04-15T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: 'Publications/El-Gabbas_etal_2021_DDI.pdf'

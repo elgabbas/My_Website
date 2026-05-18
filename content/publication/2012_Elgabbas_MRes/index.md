@@ -24,7 +24,6 @@ publication_types:
 - "7"
 publishDate: "2012-01-01T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: "/Publications/El-Gabbas_2012_MRes_thesis.pdf"

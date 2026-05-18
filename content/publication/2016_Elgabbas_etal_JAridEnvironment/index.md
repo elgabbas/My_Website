@@ -26,7 +26,6 @@ publication_types:
 - "2"
 publishDate: "2016-04-01T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: ""

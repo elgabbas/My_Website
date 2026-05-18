@@ -30,7 +30,6 @@ publication_types:
 - "1"
 publishDate: "2023-06-14T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_poster: ''

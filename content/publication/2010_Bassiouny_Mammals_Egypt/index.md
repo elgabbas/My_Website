@@ -62,7 +62,6 @@ publication_types:
 - "5"
 publishDate: "2010-01-01T00:00:00Z"
 slides:
-summary:
 url_code: ''
 url_pdf: "http://www.nottingham.ac.uk/~plzfg/pdf%20files/2010%20Mammals.pdf"
 url_dataset: ''

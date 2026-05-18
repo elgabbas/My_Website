@@ -36,7 +36,6 @@ publication_types:
 - journal article
 publishDate: "2024-07-21T13:00:00Z"
 slides:
-summary:
 url_code: ''
 url_dataset: ''
 url_pdf: 'Publications/Khan_etal_2024_BioDT.pdf'
