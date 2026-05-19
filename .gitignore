@@ -9,3 +9,4 @@ _gen/
 Thumbs.db
 .hugo_build.lock
 /resources/
+.positai

@@ -19,7 +19,7 @@ image:
   caption: ''
   #focal_point: ""
   preview_only: false
-publication: "**Diversity and Distributions** (accepted)"
+publication: "**Diversity and Distributions** 32, no. 5: e70205."
 publication_short:
 publication_types:
 - journal article
@@ -27,12 +27,18 @@ publishDate: "2026-5-18T13:00:00Z"
 slides:
 url_code: ''
 url_dataset: ''
-url_pdf:
+url_pdf: 'Publications/El-Gabbas_2026.pdf'
 links:
-- name: "GitHub repository"
+- name: "GitHub"
   url: 'https://github.com/elgabbas/global_sampling_efforts/'
-- name: "Data on Zenodo"
+- name: "Zenodo"
   url: 'https://doi.org/10.5281/zenodo.17591680'
+- name: "Appendix 1"
+  url: 'Publications/El-Gabbas_2026_appendix_1.pdf'
+- name: "Appendix 2"
+  url: 'Publications/El-Gabbas_2026_appendix_2.pdf'
+- name: "Supporting figures"
+  url: 'Publications/El-Gabbas_2026_supporting_figures.pdf'
 url_poster: ''
 url_project: ""
 url_slides: ""
