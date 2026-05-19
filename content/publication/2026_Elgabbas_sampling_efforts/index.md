@@ -48,3 +48,23 @@ profile: false
 related: false
 projects: []
 ---
+
+<br/>
+
+--------------------------------------------------------
+
+### Examples of sampling effort datasets
+
+This study provides global, taxon-stratified rasters of sampling effort (observation counts and species richness) derived from ~3 billion GBIF records. These rasters are available for nine major taxonomic groups and their descendants, at four spatial resolutions (≈1, 5, 10, and 20 km), and for annual as well as cumulative time periods (1980–2025).
+
+Seven examples are provided to illustrate different views and applications of the dataset:
+
+- **[Example 1](/efforts/example_1.html)** — Total recorded bird species richness (Aves, `n_sp`, 10 km)
+- **[Example 2](/efforts/example_2.html)** — Total bird observation count (Aves, `n_obs`, 10 km)
+- **[Example 3](/efforts/example_3.html)** — Cumulative recorded species richness across all groups (`n_sp`, 5 km)
+- **[Example 4](/efforts/example_4.html)** — Cumulative observation count across all groups (`n_obs`, 5 km)
+- **[Example 5](/efforts/example_5.html)** — Bird observations for the period 2015–2024 (Aves, `n_obs`, 5 km)
+- **[Example 6](/efforts/example_6.html)** — Descendant-level exploration (Insecta example, `n_obs`, 10 km)
+- **[Example 7](/efforts/example_7.html)** — Percentage-based spatial coverage analysis (Aves / All groups, `n_obs`, 20 km)
+
+For full documentation, data access functions (`ecokit::get_sampling_effort()`), repository structure, and the complete reproducible workflow, see the [companion GitHub repository](https://github.com/elgabbas/global_sampling_efforts/).

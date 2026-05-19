@@ -40,8 +40,6 @@ url_code: ''
 url_dataset: ''
 url_pdf: 'Publications/Khan_etal_2024_BioDT.pdf'
 links:
-- name: ""
-  url: ''
 url_poster: ''
 url_project: ""
 url_slides: ""

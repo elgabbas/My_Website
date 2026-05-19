@@ -10,3 +10,4 @@ Thumbs.db
 .hugo_build.lock
 /resources/
 .positai
+/test_efforts/
