@@ -1,3 +1,2 @@
-static/efforts/** filter=lfs diff=lfs merge=lfs -text
 static/efforts/figures/ filter=lfs diff=lfs merge=lfs -text
 static/efforts/** !text !filter !merge !diff
