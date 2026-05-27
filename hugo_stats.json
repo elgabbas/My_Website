@@ -1,10 +1,7 @@
 {
   "htmlElements": {
     "tags": [
-      "15%",
-      "3,000",
-      "4,",
-      "8",
+      "8i",
       "a",
       "article",
       "aside",
@@ -15,7 +12,6 @@
       "button",
       "circle",
       "code",
-      "del",
       "div",
       "em",
       "footer",
@@ -41,7 +37,6 @@
       "p",
       "path",
       "polygon",
-      "pre",
       "rb",
       "rt",
       "ruby",
@@ -476,6 +471,8 @@
     ],
     "ids": [
       "about-me",
+      "badvisorbbr",
+      "bmain-advisorb-prof-carsten-f-dormannhttpswwwbiomuni-freiburgdemitarbeiterdormann-prof-carsten-f-dormann-department-of-biometry-and-environmental-system-analysis-university-of-freiburg-germany-brbsecond-advisorb-prof-francis-gilberthttpecologynottinghamacukplzfg-prof-francis-gilbert-school-of-life-sciences-nottingham-university-nottingham-uk",
       "examples-of-sampling-effort-datasets",
       "hide-button",
       "moon",
@@ -483,9 +480,7 @@
       "nav-menu",
       "nav-toggle",
       "page-bg",
-      "predicted-species--42--40--39--42--47--43--47--42--32--23",
       "profile",
-      "recorded-species--8--13--9--15--27--28--22--15--15--1--2--2--4--7--16--5--15--2--9--24--11",
       "search",
       "search_toggle",
       "section-collection",
@@ -500,19 +495,9 @@
       "share-link-x",
       "show-button",
       "site-header",
-      "species",
-      "species--mean-auc--auc-sd",
-      "species--mean-auc--auc-sd-1",
-      "species-1",
-      "species-2",
-      "species-3",
-      "species-gained",
-      "species-loss",
-      "species-loss-1",
-      "species-moilanen-et-al-2012-i-calculated-it-as-the-following",
+      "strongsee-alsostrongbr",
       "sun",
       "teaching",
-      "the-maps-25-arc-minutes-00416-about-46388-km",
       "top"
     ]
   }

@@ -12,24 +12,26 @@ tags:
 - Software
 categories:  ["Software"]
 date: 2025-12-18T13:15:06+01:00
-lastmod: 2025-12-18T13:15:06+01:00
+lastmod: 2026-05-27
 featured: false
 draft: false
-doi: "10.5281/zenodo.15477683"
+doi: ""
 image:
   caption: ''
   #focal_point: ""
   preview_only: false
 publication: "**Zenodo**"
 publication_short:
-publication_types:
-- journal article
+# publication_types:
+# - journal article
 publishDate: "2025-12-18T13:00:00Z"
 slides:
 url_code: ''
 url_dataset: ''
 url_pdf: ''
 links:
+- name: "DOI"
+  url: "https://www.doi.org/10.5281/zenodo.15477683"
 - name: "Package Documentation"
   url: 'https://elgabbas.github.io/ecokit'
 - name: "GitHub Repository"

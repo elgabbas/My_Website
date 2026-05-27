@@ -12,7 +12,7 @@ authors:
 tags: ["Butterflies", "Reptiles", "Egypt", "Maxent", "Elastic net", "point-Process Models", "Species Distribution Models", "Conservation", "Spatial Conservation Prioritization", "Zonation", "Mammals", "Bats", "Sampling bias"]
 categories: ["Theses"]
 date: 2018-1-1T13:15:06+01:00
-lastmod: 2018-1-1T13:15:06+01:00
+lastmod: 2026-05-27
 featured: false
 draft: false
 doi: ""
@@ -22,12 +22,11 @@ image:
   preview_only: false
 publication: "**Dr. rer. nat. thesis**, University of Freiburg, Germany"
 publication_short:
-publication_types:
-- "7"
+# publication_types:
+# - "7"
 publishDate: "2018-01-01T00:00:00Z"
 slides:
 summary:
-
 url_code: ''
 url_dataset: ''
 url_pdf: ""
@@ -41,5 +40,6 @@ related: false
 projects: []
 ---
 
-> <b>Main Supervisor:</b>[Prof. Carsten F. Dormann](https://www.biom.uni-freiburg.de/mitarbeiter/dormann "Prof. Carsten F. Dormann"), Department of Biometry and Environmental System Analysis, University of Freiburg, Germany.
-> <b>Second Supervisor:</b>[Prof. Francis Gilbert](http://ecology.nottingham.ac.uk/~plzfg/ "Prof. Francis Gilbert"), School of Life Sciences, Nottingham University, Nottingham, UK.
+<br/>
+
+#### <b>Main advisor:</b> [Prof. Carsten F. Dormann](https://www.biom.uni-freiburg.de/mitarbeiter/dormann "Prof. Carsten F. Dormann"), Department of Biometry and Environmental System Analysis, University of Freiburg, Germany. <br/><b>Second advisor:</b> [Prof. Francis Gilbert](http://ecology.nottingham.ac.uk/~plzfg/ "Prof. Francis Gilbert"), School of Life Sciences, Nottingham University, Nottingham, UK.

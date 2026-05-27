@@ -1,6 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-abstract: 'These animated videos represent daily and weekly mean habitat suitability from dynamic species distribution models on four baleen whale species in the Southern Ocean: Antarctic minke (<i>Balaenoptera bonaerensis</i>), Antarctic blue (<i>Balaenoptera musculus intermedia</i>), fin (<i>Balaenoptera physalus</i>), and humpback (<i>Megaptera novaeangliae</i>) whales.<br><br>For more information, see the <a href="https://doi.org/10.3389/fmars.2021.802276" target="_blank">full manuscript</a>.<br><br>The same content is also available as a <a href="https://www.youtube.com/playlist?list=PLdpRuazqmy6Es97xn0TbWi91XtLd8Wf5i" target="_blank">YouTube playlist</a><br><br>'
+abstract: '<p style="text-align: justify;">These animated videos represent daily and weekly mean habitat suitability from dynamic species distribution models on four baleen whale species in the Southern Ocean: Antarctic minke (<i>Balaenoptera bonaerensis</i>), Antarctic blue (<i>Balaenoptera musculus intermedia</i>), fin (<i>Balaenoptera physalus</i>), and humpback (<i>Megaptera novaeangliae</i>) whales.</p>'
 title: "Year-Round Habitat Suitability of Baleen Whales in the Southern Ocean"
 subtitle: ""
 summary: ''
@@ -12,10 +12,10 @@ authors:
 tags: ["Maxent", "Species Distribution Models", "dynamic Species Distribution Models", "Conservation", "Mammals", "Sampling bias", "Open-access", "rstats", "Marine", "Southern Ocean", "Antatctica", "Antarctic minke whale", "Antarctic blue whale", "fin whale", "humpback whale"]
 categories: ["Dataset"]
 date: 2021-12-26T13:15:06+01:00
-lastmod: 2021-12-26T13:15:06+01:00
+lastmod: 2026-08-27
 featured: false
 draft: false
-doi: "10.6084/m9.figshare.16611556.v1"
+doi: ""
 ISBN: ""
 image:
   caption: ''
@@ -23,8 +23,11 @@ image:
   preview_only: false
 publication: "**Figshare** (dataset)"
 publication_short:
-publication_types: ["6"]
+# publication_types: ["6"]
 publishDate: "2021-12-26T13:15:06+01:00"
+links:
+- name: "DOI"
+  url: "https://www.doi.org/10.6084/m9.figshare.16611556.v1"
 slides:
 url_code: ''
 url_pdf: ""
@@ -38,3 +41,7 @@ profile: false
 related: false
 projects: []
 ---
+
+<br/>
+
+For more information, see the <a href="/publication/2021_elgabbas_etal_dynamic_sdms/index.html">full manuscript</a> [<a href="https://doi.org/10.3389/fmars.2021.802276" target="_blank">DOI</a>]. <br/>The same content is also available as a <a href="https://www.youtube.com/playlist?list=PLdpRuazqmy6Es97xn0TbWi91XtLd8Wf5i" target="_blank">YouTube playlist</a><br/>
