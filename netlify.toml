@@ -1,6 +1,6 @@
 [build]
   # command = "hugo --gc --minify -b $URL && npx pagefind --source 'public'"
-  command = "hugo && python3 scripts/update_sitemap.py"
+  command = "hugo && python3 update_sitemap.py"
   publish = "public"
 
 [build.environment]
