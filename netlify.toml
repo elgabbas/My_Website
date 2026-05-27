@@ -1,12 +1,12 @@
 [build]
   # command = "hugo --gc --minify -b $URL && npx pagefind --source 'public'"
-  # publish = "public"
-  command = "Rscript -e 'blogdown::build_site()' && Rscript R/generate_sitemap.R"
+  command = "hugo && python3 scripts/update_sitemap.py"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.130.0"
   HUGO_ENABLEGITINFO = "true"
+  HUGO_ENV          = "production"
 
 [context.production.environment]
   HUGO_ENV = "production"
